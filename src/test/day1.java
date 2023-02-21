@@ -9,6 +9,8 @@ public class day1 {
 
 
 		// TODO Auto-generated method stub
+	//package test1
+	//package test2
 	@AfterTest
 	public void lastexecution()
 	{
